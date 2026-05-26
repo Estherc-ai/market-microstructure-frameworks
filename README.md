@@ -12,15 +12,15 @@ Welcome to my research workspace. This repository acts as an archive for my inde
 > 
 > **This workspace is driven by pure passion, deep systems logic, and an absolute respect for structural market physics. It is NOT a commercial venture.** 
 > 
-> Because these structural frameworks rely entirely on objective mathematical data, the daily reference zones track institutional flow with high precision. To ensure this private study space remains a quiet environment focused purely on educational research, the deep daily coordinates and data maps are kept locked to protect the integrity of the project and prevent commercial misuse.
+> Because these structural frameworks rely entirely on objective mathematical data, the daily reference zones track institutional flow with high precision. To ensure this private study space remains a quiet environment focused purely on educational research, the deep daily coordinates and data maps are kept locked to protect the integrity of the project.
 
-Collaborator access to this historical tracking ledger is gladly shared peer-to-peer with verified industry specialists, quantitative researchers, systems engineers, and academic peers who share a genuine passion for market mechanics and want to explore the data together.
+Collaborator access to this historical tracking ledger is gladly shared peer-to-peer who share a genuine passion for market mechanics and want to explore the data together.
 
 
 ### 📥 Connect & Request Access:
-If you are an industry specialist, quantitative researcher, or fellow student interested in reviewing the historical daily data maps, please feel free to reach out using either method:
+If you are interested in reviewing the historical daily data maps, please feel free to reach out using either method:
 
-1. **Let's Connect on LinkedIn:** Drop by my LinkedIn page so we can introduce ourselves. A quick direct message mentioning your firm or academic research background is a wonderful way for us to connect peer-to-peer.
+1. **Let's Connect on LinkedIn:** Drop by my LinkedIn page so we can introduce ourselves. A quick direct message mentioning your academic research background is a wonderful way for us to connect peer-to-peer.
 2. **GitHub Collaboration:** Feel free to open an issue directly in this repository or contact me with your GitHub handle so I can add you to the private workspace.
 
 
@@ -39,7 +39,7 @@ The foundational engine of my research monitors structural constraints where mar
 ## 📊 Retrospective Session Log (System Verification)
 
 
-This section archives high-level retrospective case studies to demonstrate how these theoretical frameworks apply to real-world market sessions. Looking back at closed historical data provides an educational review of how order flow operates across major indices.
+This section archives retrospective case studies to demonstrate how these theoretical frameworks apply to real-world market sessions. Looking back at closed historical data provides an educational review of how order flow operates across major indices.
 
 
 ### 🔬 Session Review: May 22, 2026 ($NDX / MNQ)
